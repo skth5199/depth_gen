@@ -13,8 +13,8 @@ A sample of the input and the resulting depth maps are shown below:
 <p align="center">
 <img src=https://user-images.githubusercontent.com/26760537/164731589-0d8a3ea7-4963-4f6b-bbd1-224d18617da7.png>
 </p>
-Each row consists of the input image, ground truth depth map, output by pix2pix model, output by U-net with MobileNetv2 and output by U-net with Densenet encoder, respectively from right to left.
-  
+Each row consists of the input image, ground truth depth map, output by pix2pix model, output by U-net with MobileNetv2 and output by U-net with Densenet encoder, respectively from right to left.  </  br>
+<p> </p>
 To generate depth maps for a custom image, simply download and run as follows:
   
 ```
@@ -29,8 +29,8 @@ The computational complexity (CC) is calculated as follows:
 <p align="center">
 <img src=https://user-images.githubusercontent.com/26760537/164729416-f2be262a-6c2b-4f4e-8f86-bd3099516386.png>
 </p>
-where n is the total number of approaches being considered.
-  
+where n is the total number of approaches being considered.  
+<p> </p>
 The final value of the metric is calculated as follows:
 <p align="center">
 <img src=https://user-images.githubusercontent.com/26760537/164729478-e1c18c58-4104-4432-a0ed-c8c9078e3b3c.png>
