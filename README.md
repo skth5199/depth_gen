@@ -15,6 +15,8 @@ A sample of the input and the resulting depth maps are shown below:
 </p>
 Each row consists of the input image, ground truth depth map, output by pix2pix model, output by U-net with MobileNetv2 and output by U-net with Densenet encoder, respectively from right to left
 
+To generate depth maps for a custom image, simply download and run as follows:
+$ python gui.py
 
 The architectures of these approaches is illustrated in the dissertation document.
 
