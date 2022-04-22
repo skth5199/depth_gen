@@ -26,7 +26,7 @@ The computational complexity (CC) is calculated as follows:
 <p align="center">
 <img src=https://user-images.githubusercontent.com/26760537/164729416-f2be262a-6c2b-4f4e-8f86-bd3099516386.png>
 </p>
-where n is the total number of approaches being considered.
+where n is the total number of approaches being considered.<br />
 
 The final value of the metric is calculated as follows:
 <p align="center">
