@@ -14,7 +14,7 @@ The architectures of these approaches is illustrated in the dissertation documen
 A new metric was engineered for the fair and more apposite comparison of the approaches, which factored in the computational complexity of the approaches. It consists of two components.
 The computational complexity (CC) is calculated as follows:
 <p align="center">
-<img width="460" height="300" src=https://user-images.githubusercontent.com/26760537/164729416-f2be262a-6c2b-4f4e-8f86-bd3099516386.png>
+<img src=https://user-images.githubusercontent.com/26760537/164729416-f2be262a-6c2b-4f4e-8f86-bd3099516386.png>
   </p>
 
 where n is the total number of approaches being considered
