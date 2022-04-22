@@ -1,11 +1,11 @@
 # Three Depth estimation end to end approaches focusing on complex situations while reducing computational complexity
 
-Three monocular depth estimation approaches were developed:
+### Three monocular depth estimation approaches were developed:
 1. Pix2pix model
 2. U-net with DenseNet encoder
 3. U-net with MobileNetv2 encoder
 
-Datasets used for training and testing:
+### Datasets used for training and testing:
 1. KITTI
 2. NYU
 
@@ -23,6 +23,7 @@ $ python gui.py
   
 The architectures of these approaches is illustrated in the dissertation document.
   
+### The engineered metric
 A new metric was engineered for the fair and more apposite comparison of the approaches, which factored in the computational complexity of the approaches. It consists of two components.
 The computational complexity (CC) is calculated as follows:
 <p align="center">
